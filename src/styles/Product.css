@@ -1,0 +1,21 @@
+.products-page {
+  margin-top: 50px;
+  padding: 40px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.products-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+.products-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
